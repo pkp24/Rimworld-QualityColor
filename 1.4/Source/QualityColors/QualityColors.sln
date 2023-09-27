@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityColors", "QualityColors.csproj", "{F11C30FE-CB77-45B7-88B7-6DD71A85AFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11C30FE-CB77-45B7-88B7-6DD71A85AFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11C30FE-CB77-45B7-88B7-6DD71A85AFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11C30FE-CB77-45B7-88B7-6DD71A85AFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11C30FE-CB77-45B7-88B7-6DD71A85AFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292C4047-08FC-46DC-9B50-0E0E1BEBC708}
+	EndGlobalSection
+EndGlobal
